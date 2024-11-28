@@ -2,7 +2,7 @@ package Project;
 
 import java.time.LocalDateTime;
 
-public class Delivery {
+/*public class Delivery {
     private String location;
     private Vehicle vehicle;
 
@@ -22,4 +22,5 @@ public class Delivery {
     public String getDeliveryDetails() {
         return "Delivery Location: " + location + ", Vehicle: " + vehicle.getVehicleInfo();
     }
-}
+}*///useless code
+
