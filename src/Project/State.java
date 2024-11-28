@@ -1,6 +1,6 @@
 package Project;
 
-public class State {
+/*public class State {
     String stateName;
     int distanceFromDelhi;
     int averageTime;
@@ -10,5 +10,5 @@ public class State {
         this.distanceFromDelhi = distanceFromDelhi;
         this.averageTime = averageTime;
     }
-}
+}*/
 
